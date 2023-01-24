@@ -1,0 +1,18 @@
+<div>
+      <h1>hola mundo</h1>
+      {/* ul>li*3>a{Enlace $} Notacion emmet para acortar la escritura de html*/}
+      <ul>
+        <li>
+          <a href="">Enlace 1</a>
+        </li>
+        <li>
+          <a href="">Enlace 2</a>
+        </li>
+        <li>
+          <a href="">Enlace 3</a>
+        </li>
+        <li>
+          <a href="">Enlace 4</a>
+        </li>
+      </ul> 
+    </div>
